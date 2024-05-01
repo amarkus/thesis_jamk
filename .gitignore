@@ -1,0 +1,29 @@
+# Ignore all data & patches directories
+data/
+patches/
+**/data/
+**/patches/
+dataset/
+
+# Ignore rescreenshotsports
+screenshots/
+
+# Ignore reports
+reports/
+**/reports/
+
+# Ignore AI run result files and images
+run_results/
+
+# Ignore all Visual Studio Code settings
+.vscode/
+
+# Ignore byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore calculation result files
+*.xlsx
+*.csv
+*.txt
