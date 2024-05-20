@@ -26,4 +26,3 @@ __pycache__/
 # Ignore calculation result files
 *.xlsx
 *.csv
-*.txt
